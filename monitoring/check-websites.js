@@ -5,7 +5,7 @@ const websites = [
   "https://frankandcojewellery.com/en/",
   "https://mondialjeweler.com/en/",
   "https://thepalacejeweler.com/",
-  "https://pertaminaretail.com/",
+  "https://centralmegakencana.com/",
 ];
 
 // Kirim pesan ke Slack
