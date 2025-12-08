@@ -6,6 +6,15 @@ const websites = [
   "https://mondialjeweler.com/en/",
   "https://thepalacejeweler.com/",
   "https://centralmegakencana.com/",
+  "https://pertaminaretail.com/",
+
+  "https://mondialjeweler.com/en/contacts",
+  "https://mondialjeweler.com/en/faq",
+  "https://mondialjeweler.com/en/terms",
+  "https://mondialjeweler.com/en/stores",
+  "https://mondialjeweler.com/en/stories/all",
+
+  "https://polrestamanokwari.com/",
 ];
 
 // Kirim pesan ke Slack
