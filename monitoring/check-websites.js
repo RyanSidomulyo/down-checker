@@ -7,7 +7,6 @@ const websites = [
   "https://frankandcojewellery.com/en/",
   "https://mondialjeweler.com/en/",
   "https://thepalacejeweler.com/",
-  "https://pertaminaretail.com/",
 
   "https://frankandcojewellery.com/en/contacts",
   "https://frankandcojewellery.com/en/diamond-education",
@@ -38,7 +37,6 @@ const websites = [
   "https://frankandcojewellery.com/id/articles",
   "https://thepalacejeweler.com/article",
 
-  "https://polrestamanokwari.com/",
   "https://frankandcojewellery.com/id/rings/",
 
   "https://mondialjeweler.com/en/products/mondial-realms",
